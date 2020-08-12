@@ -13,10 +13,7 @@
 Fast AI Course V3
 
 [Full Stack Deep Learning](https://course.fullstackdeeplearning.com/#course-content)
-- Setting Up Machine Learning Projects
-- Infrastructure and Tooling
-- Data Management
-- ML Teams
+![progress](https://progress-bar.dev/4/?scale=6&width=120&color=babaca&suffix=/6)
 
 
 [NLP - Fast AI course](https://www.youtube.com/watch?v=cce8ntxP_XI&list=PLtmWHNX-gukKocXQOkQjuVxglSDYWsSh9) 
