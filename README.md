@@ -20,7 +20,7 @@ Fast AI Course V3
 
 
 [NLP - Fast AI course](https://www.youtube.com/watch?v=cce8ntxP_XI&list=PLtmWHNX-gukKocXQOkQjuVxglSDYWsSh9) 
-![progress](https://progress-bar.dev/3/?scale=19&width=120&color=babaca)
+![progress](https://progress-bar.dev/3/?scale=19&width=120&color=babaca&suffix=/19)
 
 ## Bio-Informatics
 
