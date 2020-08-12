@@ -19,7 +19,8 @@ Fast AI Course V3
 - ML Teams
 
 
-[NLP - Fast AI course](https://www.youtube.com/watch?v=cce8ntxP_XI&list=PLtmWHNX-gukKocXQOkQjuVxglSDYWsSh9) 2/19
+[NLP - Fast AI course](https://www.youtube.com/watch?v=cce8ntxP_XI&list=PLtmWHNX-gukKocXQOkQjuVxglSDYWsSh9) 
+![progress](https://progress-bar.dev/3/?scale=19&width=120&color=babaca)
 
 ## Bio-Informatics
 
